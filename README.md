@@ -9,6 +9,9 @@
 ## **Description**
 This repository represents my solution to cases given at Central University as task for Stats Intro subject.
 
+> [!NOTE]
+>  **This repository doesn not refers to any official CU sources**
+
 ## **Quick start**
 Run
 ```bash
