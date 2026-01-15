@@ -5,6 +5,7 @@
       <img alt="CU Logo" src="image/README/cu_logo.png">
     </picture>
 </p>
+
 ## **Description**
 This repository represents my solution to cases given at Central University as task for Stats Intro subject.
 
